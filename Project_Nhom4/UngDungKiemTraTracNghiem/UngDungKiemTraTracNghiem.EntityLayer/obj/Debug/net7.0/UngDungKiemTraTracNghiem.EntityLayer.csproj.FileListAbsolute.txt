@@ -1,0 +1,14 @@
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.deps.json
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.runtimeconfig.json
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.dll
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.pdb
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.csproj.AssemblyReference.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.AssemblyInfoInputs.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.AssemblyInfo.cs
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.csproj.CoreCompileInputs.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.dll
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\refint\UngDungKiemTraTracNghiem.EntityLayer.dll
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.pdb
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.genruntimeconfig.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.EntityLayer\obj\Debug\net7.0\ref\UngDungKiemTraTracNghiem.EntityLayer.dll

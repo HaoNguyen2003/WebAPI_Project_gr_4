@@ -1,0 +1,17 @@
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.deps.json
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.runtimeconfig.json
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.dll
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.pdb
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.dll
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\bin\Debug\net7.0\UngDungKiemTraTracNghiem.EntityLayer.pdb
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.csproj.AssemblyReference.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.AssemblyInfoInputs.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.AssemblyInfo.cs
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.csproj.CoreCompileInputs.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.csproj.CopyComplete
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.dll
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\refint\UngDungKiemTraTracNghiem.DtoLayer.dll
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.pdb
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\UngDungKiemTraTracNghiem.DtoLayer.genruntimeconfig.cache
+E:\Project_Nhom4\UngDungKiemTraTracNghiem\UngDungKiemTraTracNghiem.DtoLayer\obj\Debug\net7.0\ref\UngDungKiemTraTracNghiem.DtoLayer.dll
